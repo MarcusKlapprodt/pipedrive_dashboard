@@ -15,4 +15,4 @@ The purpose was to display kpi-based metrics for our customer success managers o
  - set up venv with pyhton 3.9
  - pip install -r requirements.txt
  - store your api-key in a .key.json file (might be deprecated by Pipedrive in the future)
- - store user keys in /keys/users.json
+ - store user keys in ´/keys/users.json´
