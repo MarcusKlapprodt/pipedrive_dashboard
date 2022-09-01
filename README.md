@@ -4,9 +4,9 @@ The purpose was to display kpi-based metrics for our customer success managers o
 
 ## Table of contents
  - Readme
- - CS Dashbaord - extensive view with pandas and plotly
- - CS Simplified Dashbaord - get a brief table of activities
- - pipedrive Connector - collection of functions to get the api key, the users, table structure, fortmatting of charts, ...
+ - CS Dashboard --> extensive view with pandas and plotly
+ - CS Simplified Dashbaord --> get a brief table of activities
+ - pipedrive Connector --> collection of functions to get the api key, the users, table structure, fortmatting of charts, ...
  - requirements.txt
  - .gitignore
 
