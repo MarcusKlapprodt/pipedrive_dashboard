@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Key Files
+.csenv
+.key.json
+
+# Folders
+keys/
+
