@@ -1,6 +1,6 @@
 # Pipedrive Dashboard
-The purpose was to display kpi metrics for customer success managers, based on their daily activities. 
-(now that we switched to hubspot, we don't need the dashboard anymore, but maybe it helps others)
+The purpose is to display kpi metrics for customer success managers in pipedrive, based on their daily activities. 
+Now that we switched to hubspot, we don't need the dashboard anymore, but maybe it helps others. That is why there are no frequent updates to this repo.  
 
 ## Table of contents
  - Readme
