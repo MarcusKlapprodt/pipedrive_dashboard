@@ -1,18 +1,30 @@
 # Pipedrive Dashboard
-The purpose is to display kpi metrics for customer success managers in pipedrive, based on their daily activities. 
-Now that we switched to hubspot, we don't need the dashboard anymore, but maybe it helps others. That is why there are no frequent updates to this repo.  
 
-## Table of contents
- - Readme
- - CS Dashboard --> Overview with pandas and plotly
- - CS Simplified Dashbaord --> Get a brief table of activities
- - pipedrive Connector --> Collection of functions to get the api key, the users, table structure, fortmatting of charts, ...
- - requirements.txt
- - .gitignore
+This repository was initially developed to display KPI metrics for Customer Success Managers using Pipedrive, focusing on their daily activities. Since we've moved to HubSpot, we no longer maintain or update this dashboard. However, you're welcome to use and adapt it to suit your needs. Please note that the repository is no longer actively supported or updated.
 
-## How to install
- - clone the repository
- - set up venv with `python 3.9`
- - pip install -r requirements.txt
- - store your api-key in a `.key.json` file (might be deprecated by Pipedrive in the future)
- - store user keys in `/keys/users.json`
+## Table of Contents
+- **README**  
+- **CS Dashboard**  
+  Overview of key metrics using pandas and Plotly.
+- **CS Simplified Dashboard**  
+  A concise table summarizing key activities.
+- **Pipedrive Connector**  
+  A collection of functions for retrieving API keys, user data, table structures, chart formatting, and more.
+- **requirements.txt**  
+- **.gitignore**
+
+## Installation Instructions
+
+1. **Clone the Repository**
+2. **Set Up a Virtual Environment**  
+   Use Python 3.9 to create a virtual environment.
+3. **Install Dependencies**  
+   Run `pip install -r requirements.txt`.
+4. **Store API Key**  
+   Save your API key in a `.key.json` file (Note: Pipedrive may deprecate this method in the future).
+5. **Store User Keys**  
+   Save user keys in `/keys/users.json`.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
